@@ -84,4 +84,5 @@ Payment Trends: Payment mode insights for operational optimization
 
 
 Screenshot
+Dashboard View - https://github.com/aarushj252gmailcom/Power-bi-dashboard/blob/main/E-commerce%20sales%20dashboard.png
 
