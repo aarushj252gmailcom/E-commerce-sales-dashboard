@@ -1,7 +1,7 @@
 # Power-bi-dashboard
 Aarush E-Commerce Sales Dashboard
 
-Title
+
 A dynamic Power BI dashboard that visualizes key metrics from an e-commerce business — focusing on regional sales, profit trends, product category performance, and customer behavior.
 
 
@@ -28,32 +28,35 @@ Source: Sample e-commerce sales dataset (fictional)
 
 The dataset includes:
 
-Sales, profit, and quantity by category/sub-category
+•	Sales, profit, and quantity by category/sub-category
 
-Customer and payment details
+•	Customer and payment details
 
-Regional data (state-level)
+•	Regional data (state-level)
 
-Monthly and quarterly transaction details
-
+•	Monthly and quarterly transaction details
 
 
 
 Features & Highlights
-• Business Problem
+
+1. Business Problem
 E-commerce businesses deal with high-volume transactions across geographies and product lines. However, deriving clear business insights from raw data is challenging.
 
 Key Questions Addressed:
 
-Which states or product categories generate the highest revenue? How does performance vary quarter to quarter? Which sub-categories are most or least profitable?
-How are customers segmented by volume or payment method?
+•	Which states or product categories generate the highest revenue? 
+•	How does performance vary quarter to quarter?
+•	Which sub-categories are most or least profitable?
+•	How are customers segmented by volume or payment method?
 
-• Dashboard Goals
+
+2. Dashboard Goals
 Offer a comprehensive visual summary of sales, profit, quantity, and AOV
 Enable decision-makers to slice data by quarter, state, category, and payment mode
 Improve understanding of underperforming products or regions
 
-• Visual Walkthrough
+3. Visual Walkthrough
 🧾 KPI Cards: Total Sales (438K), Quantity Sold (5615), AOV (121K), and Profit (37K)
 
 📅 Quarterly Slicer: Filter all visuals by Q1 to Q4
